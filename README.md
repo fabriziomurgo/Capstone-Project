@@ -19,8 +19,7 @@ Analisi interattiva della stagione in **Serie A** del Como 1907 dopo la promozio
   - Excel/Power Query (pulizia dati)  
 
 ## ⚡ Highlights  
-- **Gol**: Analisi per intervalli di 15 minuti (con tempi di recupero separati)  
-- **KPI dinamici**: Progresso verso l'obiettivo salvezza diviso per mesi  
+- **Gol**: Analisi per intervalli di 15 minuti (con tempi di recupero separati)    
 - **Filtri**: Performance individuali di chi ha contributio anche solo per 1 minuto al campionato 
 
 ## 📊 Sezioni principali  
@@ -52,7 +51,6 @@ Interactive analysis of Como 1907's **Serie A** season after promotion, focusing
 
 ## ⚡ Highlights  
 - **Goals**: Analysis in 15-minute intervals (with stoppage time tracked separately)  
-- **Dynamic KPIs**: Monthly progress toward safety target  
 - **Filters**: Individual performance of players who contributed even just 1 minute to the championship  
 
 ## 📊 Main Sections  
